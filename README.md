@@ -23,4 +23,5 @@ In deep CNN based models for semantic segmentation, high accuracy relies on rich
   
 # Test :  
   python test.py
-
+# Project Paper :
+Report_Ottino_Elshaigi_Talakoobi.pdf
